@@ -1,0 +1,114 @@
+body {
+  background-image: url("https://images.duckduckgo.com/iur/?f=1&image_host=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F29%2FVincent_Willem_van_Gogh_140.jpg&u=https://upload.wikimedia.org/wikipedia/commons/2/29/Vincent_Willem_van_Gogh_140.jpg"
+    );
+  background-size:100% 100%;
+  font-family: sans-serif;
+
+}
+
+h {
+font-family: Montserrat;
+}
+
+h2{color: #BE3B28;}
+p{
+  color:#777777;
+}
+
+ul {
+  padding-left: 0;
+}
+.social-link {
+
+  padding: 80px;
+  font-size: 22px;
+}
+.social-link  a{
+  color:#457097;
+display: inline-block;
+text-decoration: none;
+padding:20px;
+}
+.social-link a:hover {
+  opacity: 0.8;
+}
+
+.social-link ul li{
+  display: inline-block;
+
+}
+.user-action ul li {
+  display: inline-block;
+}
+.user-action ul li a{
+color: #BE3B28 ;
+ }
+.user-action i {
+ font-size: 40px;
+    padding: 20px;
+}
+
+#felix {
+  width: 176px;
+  border-radius: 79px;
+
+}
+
+.box {
+width : 500px;
+margin: 10px auto;
+text-align: center;
+border-radius: 10px;
+box-shadow: 2px 3px 3px black;
+background: rgba(255, 255, 255, 0.8);
+padding-top: 30px;
+padding-right: 30px;
+padding-bottom: 20px;
+padding-left: 30px;
+}
+.social-link {
+width : 500px;
+background : #FFFFFF;
+margin: 10px auto;
+text-align: center;
+border-radius: 10px;
+box-shadow: 2px 3px 3px black;
+opacity: 0.75;
+padding-top: 7px;
+padding-right: 30px;
+padding-bottom: 7px;
+padding-left: 30px;
+
+}
+
+
+.table-img-descr {
+width : 500px;
+background : #FFFFFF;
+margin: 10px auto;
+text-align: center;
+border-radius: 10px;
+box-shadow: 2px 3px 3px black;
+opacity: 0.75;
+padding-top: 7px;
+padding-right: 30px;
+padding-bottom: 7px;
+padding-left: 30px;
+}
+
+
+.box a {
+  color: #457097;
+  transition: color 300ms;
+}
+.box a:hover {
+  color: #DAA525;
+}
+
+.box logo {
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+
